@@ -1,0 +1,38 @@
+In JavaScript the three most common types of data types are:
+    - numbers
+    - strings
+    - Boolean (True or False)
+
+A variable is a way to store information so that you can use and manipulate it
+
+Two-step process:
+   - declare the variable - (let , var and const)
+   - name the variable
+//const n2 ;// error
+// const n1 = 3.14 (mUST BE initialize);
+
+// operators
+There are different types of JavaScript operators:
+
+String Opertor
+Aritmetic Operators
+Assignment Operators
+Comparison Operators
+Logical Operators
+Conditional Operators 
+Type Operators
+
+
+
+ - The assignment operator (=) assigns a value to a variable.
+
+
+ - The addition operator (+) adds numbers:
+ - The multiplication operator (*) multiplies numbers.
+ - The Devission operator (*) Devission numbers.
+ - The Substraction operator (*) Substraction numbers.
+ - The Module( Division Remainder) operator (%) Remainder numbers.
+ - The Increment And Decrement. 
+
+
+
